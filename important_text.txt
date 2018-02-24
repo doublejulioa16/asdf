@@ -1,3 +1,2 @@
 important text
-important text2
-important text3
+important text
